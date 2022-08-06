@@ -1,0 +1,30 @@
+.heading{
+    width: 100%;
+    font-size: 30px;
+    color: beige;
+}
+
+.heading h4{
+    float: left;
+}
+
+.heading button{
+    float: right;
+}
+
+.modal-dialog{
+    width: 60%;
+}
+
+#restart{
+    font-size: 20px;
+}
+
+#footer{
+    line-height: 2;
+    width: 100%;
+    font-size: 30px;
+    background-color: aqua;
+    color: azure;
+    margin: 0px;
+}
